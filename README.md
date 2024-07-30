@@ -40,7 +40,7 @@ Our implementation follows these steps:
 3. Compare and examine the responses
 4. Aggregate the results
 
-Check out our [code examples](./examples) to see it in action!
+Check out our [code examples](./self_consistency_prompt_engineering.ipynb) to see it in action!
 
 ## 🚀 Benefits
 

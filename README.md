@@ -6,6 +6,9 @@
 
 Welcome to the Self-Consistency in Prompt Engineering repository! This project explores an advanced technique to enhance the accuracy and reliability of Large Language Models (LLMs) like GPT-3 and GPT-4.
 
+> 📚 **Read the full article**: [Self-Consistency in Prompt Engineering](https://www.analyticsvidhya.com/blog/2024/07/self-consistency-in-prompt-engineering/)
+
+
 ## 📚 Table of Contents
 
 - [Overview](#overview)
